@@ -1,0 +1,64 @@
+{
+    "kidsproduct": [
+        {
+          "id": 2,
+          "image": "https://www.shopdisney.in/media/catalog/product/cache/dff98280ed764012eadfa777851316fd/2/_/2_31.jpg",
+          "brand": "FLYING MACHINE",
+          "color": "yellow",
+          "title": "Kids Yellow Graphic Print Crew Neck T-Shirt",
+          "category": "T-Shirt",
+          "price": 494,
+          "discount": 55,
+          "lineThroughPrice": 1099,
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "image": "https://rukminim1.flixcart.com/image/832/832/jfea93k0/kids-t-shirt/h/e/k/8-9-years-fkts5215-yellow-flying-machine-original-imaf3v7kgpxkjyhv.jpeg?q=70",
+          "brand": "FLYING MACHINE",
+          "color": "yellow",
+          "title": "Kids Mustard Crew Neck Graphic T-Shirt",
+          "category": "T-Shirt",
+          "price": 1099,
+          "discount": 50,
+          "lineThroughPrice": 2199,
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "image": "https://cdn.shopify.com/s/files/1/0117/9628/3473/products/NCPIC_1_1eb62795-82b6-46f9-90dc-e635c12ca65a_120x.jpg?v=1657362626",
+          "brand": "FLYING MACHINE",
+          "color": "black",
+          "title": "Kids Charcoal Crew Neck Printed T-Shirt",
+          "category": "T-Shirt",
+          "price": 494,
+          "discount": 55,
+          "lineThroughPrice": 1099,
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "image": "https://imagescdn.allensolly.com/img/app/product/7/708224-7707165.jpg?q=75&auto=format&w=342",
+          "brand": "FLYING MACHINE",
+          "color": "black",
+          "title": "Kids Blue Ribbed Crew Neck Printed T-Shirt",
+          "category": "T-Shirt",
+          "price": 1099,
+          "discount": 50,
+          "lineThroughPrice": 2199,
+          "quantity": 1
+        },
+        {
+          "id": 18,
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-ROWhxcjjC7puNJyfYUDTwuAa-Otj1ecPrmO-fpv9UekNCH_3qJK-CnBaI9_9d5NfbUmlgWsCA6I&usqp=CAc",
+          "brand": "LEVIS",
+          "color": "black",
+          "title": "KID'S LOGO BLACK CREW NECK T-SHIRT",
+          "category": "T-Shirt",
+          "price": 903,
+          "discount": 25,
+          "lineThroughPrice": 1099,
+          "quantity": 1
+        }
+    ]
+}
